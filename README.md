@@ -28,8 +28,9 @@ My linkedin : https://www.linkedin.com/in/viveksuryawanshi03
 My Instagram : https://www.instagram.com/vivekkumar030/
 
 ## Deployment
+![Deployment](https://github.com/VivekSuryavanshi03/ANN_churn_pred/assets/123765890/e9a8299a-5d83-44e8-b5d6-884c5dc17849)
 
-To deploy this project run
+
 
 
 
