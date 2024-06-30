@@ -16,6 +16,9 @@ Customer churn is a critical metric, as it is much less expensive to retain exis
 ## Dataset
 
 https://www.kaggle.com/datasets/aakash50897/churn-modellingcsv
+## Deployment
+![Deployment](https://github.com/VivekSuryavanshi03/ANN_churn_pred/assets/123765890/e9a8299a-5d83-44e8-b5d6-884c5dc17849)
+
 ## Feedback
 
 If you have any feedback, please reach out at vivek.2022ug3014@iiitranchi.ac.in
@@ -24,11 +27,11 @@ If you have any feedback, please reach out at vivek.2022ug3014@iiitranchi.ac.in
 Hi, I'm Vivek! 👋
 I am an AI Enthusiast and Data science & ML practitioner
 
-My linkedin : https://www.linkedin.com/in/viveksuryawanshi03
+My linkedin : https://www.linkedin.com/in/viveksuryawanshi03 
+
+
 My Instagram : https://www.instagram.com/vivekkumar030/
 
-## Deployment
-![Deployment](https://github.com/VivekSuryavanshi03/ANN_churn_pred/assets/123765890/e9a8299a-5d83-44e8-b5d6-884c5dc17849)
 
 
 
